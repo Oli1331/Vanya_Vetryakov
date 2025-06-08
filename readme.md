@@ -1,3 +1,3 @@
 # Сайт Ивана Ветрякова
 
-[Ссылка на сайт](main.html)
+[Ссылка на сайт](https://oli1331.github.io/Vanya_Vetryakov/main.html)
